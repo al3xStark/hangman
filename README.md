@@ -6,9 +6,8 @@ Hangman is a guessing game for one player. Program thinks of a word and the play
 ## Launching
 To run the program, enter this command into your console.
 ```
-ruby path\hangman.rb
+ruby hangman.rb
 ```
-In place of `path` should be the path to the **hangman** folder.
 ## Game Rules
 Each time the program is run, the algorithm selects a random word from the list.
 
